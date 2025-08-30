@@ -32,3 +32,4 @@ I focus on integrating **AI, automation, and robotics** to develop smart systems
 ## 📬 Let's Connect
 - [LinkedIn] (https://www.linkedin.com/in/greglivin/) 
 - [Email] (W216359933@gmail.com)
+- [Youtube]

@@ -1,7 +1,7 @@
 # 🤖 GregLivin | Robotics & AI Engineer  
 
 Hi, I’m **Greg** — a student passionate about building intelligent robotic systems for **land, sea, air, and space**.  
-I focus on integrating **AI, automation, and robotics** to develop smart systems for healthcare, aerospace, defense, and industrial applications, while pursuing my degree in **Mechanical Engineering Technology**.
+I focus on integrating AI, automation, and robotics to design and develop smart systems for healthcare, aerospace, defense, and industrial applications, while pursuing my degree in Artificial Intelligence & Mechatronics Engineering Technology.
 
 ---
 

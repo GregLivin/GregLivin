@@ -18,7 +18,7 @@ I focus on integrating **AI, automation, and robotics** to develop smart systems
 |----------|-------------|------|
 | [AI-Powered Drone Navigation] | Built a drone navigation system using computer vision and reinforcement learning for obstacle avoidance. | Python, OpenCV, ROS |
 | [Robotic Arm Control] | Developed a 6-DOF robotic arm controlled by AI path planning. | TensorFlow, Arduino |
-| [Surgical Robot Simulation] Created a simulated environment to test precision control for surgical robotics. | Gazebo, ROS |
+| Surgical Robot Simulation Created a simulated environment to test precision control for surgical robotics. | Gazebo, ROS |
 
 ---
 

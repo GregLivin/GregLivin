@@ -10,6 +10,7 @@ I focus on integrating **AI, automation, and robotics** to develop smart systems
 - **Robotics & Control:** ROS, ROS2, Gazebo, PX4, Arduino, Raspberry Pi, Jetson Nano, RealSense Cameras  
 - **AI & Machine Learning:** TensorFlow, PyTorch, OpenCV, scikit-learn, YOLO, Reinforcement Learning (RL), Deep Learning (DL)  
 - **Programming & Scripting:** Python, C++, MATLAB, Bash, Git, Linux  
+- **Mobile AI Development:** TensorFlow Lite, Core ML, PyTorch Mobile, Swift, Kotlin, React Native  
 - **Simulation & Modeling:** SolidWorks, MATLAB Simulink, Unity, Blender, MoveIt, RViz  
 - **Sensors & Perception:** LIDAR, IMU, Ultrasonic, Depth Cameras, Computer Vision, SLAM  
 - **Cloud & Edge Deployment:** AWS, Azure, Docker, Kubernetes, NVIDIA Jetson Platform  

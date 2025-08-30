@@ -26,7 +26,9 @@ I focus on integrating **AI, automation, and robotics** to develop smart systems
 | **Automated Lawn Mower** | Designed and programmed an AI-driven robotic lawn mower capable of autonomous navigation and obstacle detection using computer vision and path optimization algorithms. | Python, OpenCV, TensorFlow, Arduino |
 | **Underwater ROV** | Engineered an AI-assisted Remotely Operated Vehicle (ROV) for underwater exploration, equipped with live video streaming, sonar integration, and autonomous navigation algorithms. | Python, ROS, OpenCV, Jetson Nano, Arduino |
 | **AI-Powered Security Drone** | Developed a smart surveillance drone with real-time object detection, facial recognition, and automated patrol routes for enhanced security monitoring. | Python, TensorFlow, OpenCV, ROS, NVIDIA Jetson |
-
+| **AI Fitness Tracker App** | Built a cross-platform mobile app that analyzes workout form and counts reps in real time using AI-driven computer vision. | TensorFlow Lite, Core ML, Swift, Kotlin |
+| **Smart Plant Care App** | Created an AI-powered mobile app that detects plant health and provides care recommendations with image recognition. | PyTorch Mobile, React Native, OpenCV |
+| **Voice Assistant for Robotics** | Designed a mobile voice-command interface to control robotic systems using natural language processing. | TensorFlow, Python, React Native, AWS |
 
 ---
 
